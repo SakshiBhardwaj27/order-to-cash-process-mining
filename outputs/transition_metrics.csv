@@ -1,0 +1,13 @@
+activity,next_activity,transition_count,avg_wait_hours,median_wait_hours
+Order Created,Credit Check,1500,5.433145555555556,3.830277777777778
+Credit Check,Payment Received,1424,3.5311345193508115,2.8769444444444443
+Payment Received,Order Approved,1424,7.175307428214731,6.035972222222222
+Pick and Pack,Shipped,1424,10.113996956928839,8.185277777777777
+Shipped,Delivered,1424,19.74355063982522,16.6825
+Order Approved,Pick and Pack,1153,8.057786691722077,6.714722222222222
+Inventory Replenished,Pick and Pack,271,8.640134276342764,7.986944444444444
+Order Approved,Inventory Replenished,271,45.08345735957359,43.94083333333333
+Credit Check,Manual Review,174,17.62748722860792,17.17791666666667
+Manual Review,Credit Check,174,9.855423052362708,9.995555555555555
+Credit Check,Order Cancelled,76,5.565789473684211,6.0
+Pick and Pack,Pick and Pack,69,5.800450885668277,5.433333333333334

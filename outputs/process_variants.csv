@@ -1,0 +1,10 @@
+process_variant,case_count,share_pct
+Order Created → Credit Check → Payment Received → Order Approved → Pick and Pack → Shipped → Delivered,970,64.66666666666666
+Order Created → Credit Check → Payment Received → Order Approved → Inventory Replenished → Pick and Pack → Shipped → Delivered,220,14.666666666666666
+Order Created → Credit Check → Manual Review → Credit Check → Payment Received → Order Approved → Pick and Pack → Shipped → Delivered,128,8.533333333333333
+Order Created → Credit Check → Order Cancelled,76,5.066666666666666
+Order Created → Credit Check → Payment Received → Order Approved → Pick and Pack → Pick and Pack → Shipped → Delivered,48,3.2
+Order Created → Credit Check → Manual Review → Credit Check → Payment Received → Order Approved → Inventory Replenished → Pick and Pack → Shipped → Delivered,37,2.466666666666667
+Order Created → Credit Check → Payment Received → Order Approved → Inventory Replenished → Pick and Pack → Pick and Pack → Shipped → Delivered,12,0.8
+Order Created → Credit Check → Manual Review → Credit Check → Payment Received → Order Approved → Pick and Pack → Pick and Pack → Shipped → Delivered,7,0.46666666666666673
+Order Created → Credit Check → Manual Review → Credit Check → Payment Received → Order Approved → Inventory Replenished → Pick and Pack → Pick and Pack → Shipped → Delivered,2,0.13333333333333333
